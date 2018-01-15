@@ -3,7 +3,7 @@
 Just a quick example of ES6 functionalities, includes:
 
  - Template Strings, (i.e: `${weight} lbs`)
- - forEach()
+ - .forEach()
  - .filter()
  - .map()
  - .sort()
